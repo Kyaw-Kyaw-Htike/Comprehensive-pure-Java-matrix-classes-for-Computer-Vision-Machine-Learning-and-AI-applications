@@ -1,3 +1,8 @@
+/**
+ * Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
+ *
+ */
+
 package KKH.StdLib;
 
 import KKH.StdLib.Interfaces_LamdaFunctions.functor_double_doubleArray;
@@ -23,11 +28,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 import java.util.function.DoubleSupplier;
-
-/**
- * Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
- *
- */
 
 public final class Matkc implements Serializable {
 
