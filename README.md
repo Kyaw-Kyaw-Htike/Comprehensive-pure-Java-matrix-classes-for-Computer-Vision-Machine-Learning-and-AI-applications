@@ -1,7 +1,7 @@
 # Comprehensive-pure-Java-matrix-classes-for-Computer-Vision-Machine-Learning-and-AI-applications
 Comprehensive pure Java matrix classes especially for Computer Vision, Machine Learning and AI applications 
 
-These Java matrix classes supports 2D and 3D matrices (a 2D matrix is treated simply as a 3D matrix with the number of channels equal to one). The underlying data is backed by a (single dimensional) double array. Both continuous and discontinuous slicing is allowed.  Continuous slicing is very efficient and has the time complexity of O(1) (for Matk class) and just the indices of the slice are recorded in the object (making it into a view), i.e. no data is copied. All operations can be done on a view, just like a normal matrix. For, Matkc class, data is copied regardless of continuous or discontinuous slicing. 
+These Java matrix classes support 2D and 3D matrices (a 2D matrix is treated simply as a 3D matrix with the number of channels equal to one). The underlying data is backed by a (single dimensional) double array. Both continuous and discontinuous slicing is allowed.  Continuous slicing is very efficient and has the time complexity of O(1) (for Matk class) and just the indices of the slice are recorded in the object (making it into a view), i.e. no data is copied. All operations can be done on a view, just like a normal matrix. For, Matkc class, data is copied regardless of continuous or discontinuous slicing. 
 
 The functionalities implemented in the classes include:
 
