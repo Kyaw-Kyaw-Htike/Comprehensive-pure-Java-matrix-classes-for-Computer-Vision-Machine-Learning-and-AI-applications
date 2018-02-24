@@ -69,6 +69,8 @@ The functionalities implemented in the classes include:
 - Clustering the data in the matrix using K-means algorithm by treating the matrix as a dataset (assuming this is a 2D matrix).
 - Generate a dataset that contains bivariate Gaussian data for different number of classes. For each class, one multivariate gaussian distribution is produced.
 
+<https://kyaw.xyz/2017/12/10/comprehensive-pure-java-matrix-classes-especially-computer-vision-machine-learning-ai-applications>
+
 Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
 Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur
